@@ -15,3 +15,7 @@ tqdm==4.62.3<br>
 # Training:
 Please download datasets from the repo of LofGAN and put them in the datasets folder.<br>
 `python train.py`
+# Testing:
+`python main_metric.py`
+# Notice
+Our code is heavily based on LoFGAN, where you can download the datasets we used in this paper. We thanks a lot for their great work!
